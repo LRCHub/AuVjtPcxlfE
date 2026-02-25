@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "BANZAI",
+  "base_artist": "轟はじめ",
+  "createdAt": "2026-02-25T05:57:52.920519Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "21st Century (Banzai Republic remix)",
+      "artist": "Weekend Players",
+      "has_synced": false,
+      "path": "select/01_21st_Century_(Banzai_Republic_remix)_Weekend_Players.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Aishiteru Banzai!",
+      "artist": "μ's",
+      "has_synced": false,
+      "path": "select/02_Aishiteru_Banzai!_μ's.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Africa - Banzai Republic \"Equator Bound Mix\"",
+      "artist": "Cirque du Soleil",
+      "has_synced": false,
+      "path": "select/03_Africa_-_Banzai_Republic__Equator_Bound_Mix_Cirque_du_Soleil.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Banzai Song",
+      "artist": "MIYAVI feat. VERBAL",
+      "has_synced": true,
+      "path": "select/04_Banzai_Song_MIYAVI_feat._VERBAL.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Banzai Song",
+      "artist": "MIYAVI",
+      "has_synced": true,
+      "path": "select/05_Banzai_Song_MIYAVI.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Banzai [バンザイ]",
+      "artist": "RIP SLYME",
+      "has_synced": false,
+      "path": "select/06_Banzai_[バンザイ]_RIP_SLYME.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Breathe (Banzai Republic's X-Hale remix)",
+      "artist": "Télépopmusik",
+      "has_synced": false,
+      "path": "select/07_Breathe_(Banzai_Republic's_X-Hale_remix)_Télépopmusik.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Banzai Sensho",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/08_Banzai_Sensho_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Aishiteru Banzai!",
+      "artist": "Rayn",
+      "has_synced": false,
+      "path": "select/09_Aishiteru_Banzai!_Rayn.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "BANZAI",
+      "artist": "Kaela Kimura",
+      "has_synced": false,
+      "path": "select/10_BANZAI_Kaela_Kimura.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Banzai",
+      "artist": "Niña",
+      "has_synced": false,
+      "path": "select/11_Banzai_Niña.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Banzai Song",
+      "artist": "MIYAVI vs VERBAL",
+      "has_synced": true,
+      "path": "select/12_Banzai_Song_MIYAVI_vs_VERBAL.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Inhaler (feat. Banzai)",
+      "artist": "Bru-C",
+      "has_synced": true,
+      "path": "select/13_Inhaler_(feat._Banzai)_Bru-C.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Banzai Venus",
+      "artist": "JKT48",
+      "has_synced": false,
+      "path": "select/14_Banzai_Venus_JKT48.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BANZAI",
+      "artist": "轟はじめ",
+      "has_synced": false,
+      "path": "select/pl_01_BANZAI_轟はじめ.txt"
+    }
+  ]
+}
